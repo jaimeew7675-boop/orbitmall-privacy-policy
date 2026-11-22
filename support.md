@@ -1,3 +1,7 @@
+---
+permalink: /support.html
+---
+
 # Orbit Mall: Station Tycoon — Support
 
 Welcome to the official support page for Orbit Mall: Station Tycoon!
