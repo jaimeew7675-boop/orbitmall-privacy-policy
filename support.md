@@ -28,7 +28,7 @@ No. You can play without creating an account.
 
 **Where is my saved progress?**
 
-Your game progress is stored locally on your device.
+Your game progress is stored on your device and saved automatically as you play. If you're signed in to iCloud, your save slots are also kept in your iCloud account, so they come back if you reinstall the game or move to a new iPhone (this can take a minute after the first launch).
 
 ## Report a Bug
 
